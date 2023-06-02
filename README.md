@@ -1,4 +1,0 @@
-- 👋 Hi, I’am jaydev singh
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python,excel,mysql
-- 📫 you can reach me through g-mail "jaydev.singh24@gmail.com" for any suggestion
